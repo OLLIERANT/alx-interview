@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Method that determines if 
+Method that determines if
 all boxes can be opened.
 """
 
